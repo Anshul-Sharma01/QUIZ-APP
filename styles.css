@@ -1,0 +1,12 @@
+fieldset{
+    width:50%;
+    text-align: center;
+}
+legend{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
